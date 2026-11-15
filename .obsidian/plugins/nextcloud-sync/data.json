@@ -1,0 +1,43 @@
+{
+  "serverUrl": "",
+  "username": "",
+  "passwordSecretId": "",
+  "syncIntervalMinutes": 15,
+  "networkTimeoutSeconds": 30,
+  "deviceId": "57271471-fa18-48d7-bcd4-194144897389",
+  "maxFileSizeMB": 0,
+  "watchOnChangeEnabled": true,
+  "startupSyncDelaySeconds": 1,
+  "networkConcurrency": 16,
+  "syncOnWifiOnly": false,
+  "massDeleteLimit": -1,
+  "syncConfigFolder": false,
+  "configSync": {
+    "bookmarks": true,
+    "others": true
+  },
+  "syncedCommunityPlugins": [],
+  "deviceName": "",
+  "logsFolder": "",
+  "loggingEnabled": false,
+  "autoMergeFileTypes": [
+    "txt",
+    "cpp",
+    "py",
+    "c",
+    "h",
+    "hpp",
+    "rs",
+    "go",
+    "ts",
+    "js",
+    "java",
+    "sh"
+  ],
+  "autoMergeFileStrategy": "merge",
+  "otherFileStrategy": "latest-mtime",
+  "excludedFolders": [],
+  "frontmatterStrategy": "merge",
+  "conflictStrategy": "conflict-markers",
+  "lastKnownServerVersion": ""
+}
